@@ -1,0 +1,58 @@
+.navbar {
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+}
+
+.banner {
+  background: url("img/DesktopMC2.jpg")
+  no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #000000;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color:  #fff;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.portofolio {
+background-color: #333;
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  padding-top: 10px;
+}
+
+.kontak {
+  background: url("world.jpeg") no-repeat
+  center center;
+  background-size: cover;
+  background-color: #333;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #ffffff;
+}
